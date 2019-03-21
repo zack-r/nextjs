@@ -1,7 +1,7 @@
 import Link from "next/link";
 import Header from "../components/header";
-import Example from "../components/example/Example"
-import PropsEx from "../components/props/PropsEx"
+import Example from "../components/Example"
+import PropsEx from "../components/PropsEx"
 
 function Index() {
   return (
