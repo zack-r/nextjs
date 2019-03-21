@@ -12,7 +12,7 @@ function Header() {
         </button>
         <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
           <div class="navbar-nav">
-            <Link class="nav-item nav-link active" href="/demo">Home <span class="sr-only">(current)</span></Link>
+            <Link class="nav-item nav-link active" href="/demo">Home</Link>
             <Link class="nav-item nav-link" href="/experience">Work Experience</Link>
             <Link class="nav-item nav-link" href="/projects">Projects</Link>
           </div>

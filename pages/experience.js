@@ -1,10 +1,10 @@
-import Bootstrap from "../components/boostrap";
+import Header from "../components/header";
 
 function Experience() {
   return (
     <div>
       <Header />
-      <p>Hey fam</p>
+      <p>Experience</p>
     </div>
   );
 }

@@ -1,4 +1,4 @@
-import Bootstrap from "../components/boostrap";
+import Header from "../components/header";
 
 function Demo() {
   return (
