@@ -1,4 +1,4 @@
-import Bootstrap from "../components/boostrap";
+import Bootstrap from "./bootstrap";
 import Link from "next/link";
 
 function Header() {
